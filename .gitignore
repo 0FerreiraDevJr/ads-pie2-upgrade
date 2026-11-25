@@ -26,7 +26,7 @@ dist-ssr
 !.vscode/settings.json
 !.vscode/extensions.json
 
-# dotenv environment variable files
+# dotenv environment variable files (Variáveis de ambiente )
 .env
 .env.*
 !.env.example
